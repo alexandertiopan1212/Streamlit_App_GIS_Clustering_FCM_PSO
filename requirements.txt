@@ -6,8 +6,7 @@ plotly==5.22.0
 geopandas==0.14.4
 openpyxl==3.1.2
 fuzzy-c-means==1.6.2
-shapely==2.0.4
-fiona==1.9.6
-pyproj==3.6.1
-rtree==1.2.0
-sqlite3  # built-in, no need to install via pip
+shapely
+fiona
+pyproj
+rtree
