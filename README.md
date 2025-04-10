@@ -4,7 +4,8 @@
 This is a **Streamlit-based web application** for performing **geospatial clustering** using **Fuzzy C-Means (FCM)** optimized with **Particle Swarm Optimization (PSO)**. In addition to spatial clustering, the app includes a basic **blog dashboard** to post, view, and manage news or articles related to your data insights.
 
 ---
-]## 🚀 Features
+
+## 🚀 Features
 
 ### 🧠 GIS Clustering Module
 - Reads `.shp` shapefile and Excel datasets containing geographic and indicator data.
@@ -80,8 +81,9 @@ streamlit run app.py
 
 ## 📬 Contact
 
-Built with ❤️ by [Your Name].  
-For questions or collaborations, reach out via [your.email@example.com].
+Built with ❤️ by **Alexander Tiopan**  
+📧 Email: alexandertiopan1212@gmail.com  
+💼 LinkedIn: [linkedin.com/in/alexander-tiopan-85215117b](https://www.linkedin.com/in/alexander-tiopan-85215117b)
 
 ---
 
