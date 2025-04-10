@@ -65,9 +65,15 @@ streamlit run app.py
 
 ## 📊 Screenshots
 
-| GIS Clustering View | Blog View |
-|---------------------|-----------|
-| ![Map](screenshots/map.png) | ![Blog](screenshots/blog.png) |
+
+![image](https://github.com/user-attachments/assets/19db95cd-1e0d-4b57-b5b3-7207402ddbed)
+![image](https://github.com/user-attachments/assets/1e544102-baee-41d8-8a94-58ffcd2eb8bb)
+![image](https://github.com/user-attachments/assets/3647b249-3fcb-430a-9570-6addf4ecb94e)
+![image](https://github.com/user-attachments/assets/5d8a5e17-dc8c-4cf1-b86d-f971ef080661)
+![image](https://github.com/user-attachments/assets/f07fdde7-8da0-48cc-97b2-e4c872c14cea)
+![image](https://github.com/user-attachments/assets/14f275e9-6431-4733-a832-64f08446653a)
+![image](https://github.com/user-attachments/assets/3b8f019e-38b7-45c9-8f30-5018b92a4b52)
+
 
 ---
 
