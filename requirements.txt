@@ -5,7 +5,7 @@ scikit-learn==1.5.0
 plotly==5.22.0
 geopandas==0.14.4
 openpyxl==3.1.2
-git+https://github.com/omadson/fcmeans.git
+fuzzy-c-means==1.6.2
 shapely==2.0.4
 fiona==1.9.6
 pyproj==3.6.1
